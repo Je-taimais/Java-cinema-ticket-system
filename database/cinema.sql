@@ -785,7 +785,6 @@ CREATE TABLE `user`  (
   `password` varchar(100) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci NOT NULL COMMENT '加密密码',
   `phone` varchar(20) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci NOT NULL COMMENT '手机号',
   `email` varchar(50) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci NULL DEFAULT NULL COMMENT '邮箱',
-  `avatar` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci NULL DEFAULT 'default_avatar.png' COMMENT '头像URL',
   `register_time` datetime NULL DEFAULT CURRENT_TIMESTAMP COMMENT '注册时间',
   `user_type` tinyint NULL DEFAULT NULL COMMENT '用户类型：0-普通用户，2-影院管理员， -1-被拉黑用户',
   `status` tinyint NULL DEFAULT 1 COMMENT '状态：0-禁用，1-正常',
@@ -797,13 +796,13 @@ CREATE TABLE `user`  (
 -- ----------------------------
 -- Records of user
 -- ----------------------------
-INSERT INTO `user` VALUES (1, '小王', '123456', '666', '666', 'default_avatar.png', '2025-05-28 11:24:35', 0, 1);
-INSERT INTO `user` VALUES (2, '小徐', '123456', '123', '123', 'default_avatar.png', '2025-05-28 11:25:18', 0, 1);
-INSERT INTO `user` VALUES (3, '小唐', '123456', '000', '000', 'default_avatar.png', '2025-05-28 11:25:37', 2, 1);
-INSERT INTO `user` VALUES (4, '小李', '987654', '111', '111', 'default_avatar.png', '2025-05-28 11:26:47', 0, 1);
-INSERT INTO `user` VALUES (5, '小张', '123123', '222', '222', 'default_avatar.png', '2025-05-28 14:46:06', 0, 1);
-INSERT INTO `user` VALUES (8, '小三', '123456', '123456', '132456', 'default_avatar.png', '2025-05-30 09:48:42', 2, 1);
-INSERT INTO `user` VALUES (10, '小一', '123456', '1234567', '123456', 'default_avatar.png', '2025-05-30 09:50:43', 0, 1);
-INSERT INTO `user` VALUES (11, '小二', '123456', '12345678', '123456', 'default_avatar.png', '2025-05-30 09:51:35', 0, 1);
+INSERT INTO `user` VALUES (1, '小王', '123456', '666', '666', '2025-05-28 11:24:35', 0, 1);
+INSERT INTO `user` VALUES (2, '小徐', '123456', '123', '123', '2025-05-28 11:25:18', 0, 1);
+INSERT INTO `user` VALUES (3, '小唐', '123456', '000', '000', '2025-05-28 11:25:37', 2, 1);
+INSERT INTO `user` VALUES (4, '小李', '987654', '111', '111', '2025-05-28 11:26:47', 0, 1);
+INSERT INTO `user` VALUES (5, '小张', '123123', '222', '222', '2025-05-28 14:46:06', 0, 1);
+INSERT INTO `user` VALUES (8, '小三', '123456', '123456', '132456', '2025-05-30 09:48:42', 2, 1);
+INSERT INTO `user` VALUES (10, '小一', '123456', '1234567', '123456', '2025-05-30 09:50:43', 0, 1);
+INSERT INTO `user` VALUES (11, '小二', '123456', '12345678', '123456', '2025-05-30 09:51:35', 0, 1);
 
 SET FOREIGN_KEY_CHECKS = 1;

@@ -231,7 +231,6 @@ The database contains 7 tables:
 - **The DB name is Chinese `电影院`**: keep it exactly identical in both the `CREATE DATABASE` and the JDBC URL.
 - **Default credentials**: `JDBCUtil` hardcodes `root / root`; change it for any real deployment.
 - **`picture/` resources**: the ~43MB folder (posters / backgrounds / QR codes) is committed so the UI is complete; run from the project root.
-- **`default_avatar.png` is not shipped**: the avatar just appears empty — functionality is unaffected.
 - **Payments are simulated**: Alipay / WeChat Pay is simulated and does not charge real money.
 
 ---
