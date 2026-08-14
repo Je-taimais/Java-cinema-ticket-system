@@ -31,7 +31,7 @@
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### Prerequisites
 - **JDK 8 or newer**
@@ -94,7 +94,7 @@ java -cp "out:lib/mysql-connector-java-8.0.24.jar" cn.jbit.mbs.view.Login
 
 ---
 
-## 🎬 What is it?
+## What is it?
 
 FishEye Movie is a comprehensive desktop management system for cinemas. It serves two roles:
 
@@ -105,7 +105,7 @@ The project follows a classic layered architecture (`view` + `dao` + `entity`), 
 
 ---
 
-## 🎯 Problem It Solves
+## Problem It Solves
 
 Traditional cinema ticketing relies on manual counter operations, which leads to messy scheduling, opaque seat availability, and hard-to-track statistics. This project unifies "audience ticketing" and "cinema operations" into one desktop program:
 
@@ -115,7 +115,7 @@ Traditional cinema ticketing relies on manual counter operations, which leads to
 
 ---
 
-## ✨ Features
+## Features
 
 ### Audience
 - Register, login, password recovery
@@ -134,7 +134,7 @@ Traditional cinema ticketing relies on manual counter operations, which leads to
 
 ---
 
-## 🧱 Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 | --- | --- |
@@ -147,7 +147,7 @@ Traditional cinema ticketing relies on manual counter operations, which leads to
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 cinema/
@@ -166,7 +166,7 @@ cinema/
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 ### Login
 ![Login](screenshots/login.png)
@@ -197,7 +197,7 @@ cinema/
 
 ---
 
-## 🗄️ Database
+## Database
 
 The database contains 7 tables:
 
@@ -213,7 +213,7 @@ The database contains 7 tables:
 
 ---
 
-## 🔑 Default Accounts
+## Default Accounts
 
 > Passwords are stored in plaintext (for learning / coursework only — do not use in production).
 
@@ -226,7 +226,7 @@ The database contains 7 tables:
 
 ---
 
-## ⚠️ Notes
+## Notes
 
 - **The DB name is Chinese `电影院`**: keep it exactly identical in both the `CREATE DATABASE` and the JDBC URL.
 - **Default credentials**: `JDBCUtil` hardcodes `root / root`; change it for any real deployment.
@@ -235,7 +235,7 @@ The database contains 7 tables:
 
 ---
 
-## 📄 License
+## License
 
 This project is released under the [MIT License](LICENSE). You are free to use, copy, modify, and redistribute it, provided the copyright notice and permission notice are included.
 
