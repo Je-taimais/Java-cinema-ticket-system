@@ -237,7 +237,7 @@ The database contains 7 tables:
 
 ## 📄 License
 
-This is a learning / coursework demo with no dedicated license file; add an appropriate license before reuse.
+This project is released under the [MIT License](LICENSE). You are free to use, copy, modify, and redistribute it, provided the copyright notice and permission notice are included.
 
 ---
 
