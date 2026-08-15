@@ -253,4 +253,4 @@ cinema/
 
 ---
 
-Made with Java Swing & JDBC · 鱼眼电影 · [English](README.md)
+Made with ❤️ by [Je‑taimais](https://github.com/Je‑taimais) · [English](README.md)

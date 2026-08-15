@@ -252,4 +252,4 @@ This project is released under the [MIT License](LICENSE). You are free to use, 
 
 ---
 
-Made with Java Swing & JDBC · FishEye Movie · [简体中文](README.zh-CN.md)
+Made with ❤️ by [Je‑taimais](https://github.com/Je‑taimais) · [简体中文](README.zh-CN.md)
