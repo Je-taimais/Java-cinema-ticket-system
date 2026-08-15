@@ -253,4 +253,4 @@ cinema/
 
 ---
 
-Made with ❤️ by [Je‑taimais](https://github.com/Je‑taimais) · [English](README.md)
+<div align="center">Made with ❤️ by [Je‑taimais](https://github.com/Je‑taimais) · [English](README.md)</div>
