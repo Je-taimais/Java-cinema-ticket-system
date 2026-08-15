@@ -252,4 +252,4 @@ This project is released under the [MIT License](LICENSE). You are free to use, 
 
 ---
 
-<div align="center">Made with ❤️ by [Je‑taimais](https://github.com/Je‑taimais) · [简体中文](README.zh-CN.md)</div>
+<div align="center">Made with ❤️ by <a href="https://github.com/Je-taimais">Je-taimais</a> · <a href="README.zh-CN.md">简体中文</a></div>
