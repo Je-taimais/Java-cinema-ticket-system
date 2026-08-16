@@ -1,16 +1,16 @@
 <h1 align="center">鱼眼电影</h1>
 
 <p align="center">
+  基于 <strong>Java Swing + JDBC + MySQL</strong> 的桌面端 <strong>影院售票与管理系统</strong>。
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Java-8+-orange?logo=java" alt="Java 8+"/>
   <img src="https://img.shields.io/badge/MySQL-8.0+-blue?logo=mysql" alt="MySQL 8.0+"/>
   <img src="https://img.shields.io/badge/UI-Swing-4B8BF4" alt="Swing"/>
   <img src="https://img.shields.io/badge/Data-JDBC-brightgreen" alt="JDBC"/>
   <img src="https://img.shields.io/badge/License-MIT-lightgrey" alt="License MIT"/>
   <img src="https://img.shields.io/badge/release-v1.0-blue" alt="Release v1.0"/>
-</p>
-
-<p align="center">
-  基于 <strong>Java Swing + JDBC + MySQL</strong> 的桌面端 <strong>影院售票与管理系统</strong>。
 </p>
 
 <p align="center">
