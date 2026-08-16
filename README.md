@@ -1,3 +1,9 @@
+<h1 align="center">FishEye Movie</h1>
+
+<p align="center">
+  A desktop <strong>cinema ticket-booking & management system</strong> built with <strong>Java Swing + JDBC + MySQL</strong>.
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Java-8+-orange?logo=java" alt="Java 8+"/>
   <img src="https://img.shields.io/badge/MySQL-8.0+-blue?logo=mysql" alt="MySQL 8.0+"/>
@@ -5,12 +11,6 @@
   <img src="https://img.shields.io/badge/Data-JDBC-brightgreen" alt="JDBC"/>
   <img src="https://img.shields.io/badge/License-MIT-lightgrey" alt="License MIT"/>
   <img src="https://img.shields.io/badge/release-v1.0-blue" alt="Release v1.0"/>
-</p>
-
-<h1 align="center">FishEye Movie</h1>
-
-<p align="center">
-  A desktop <strong>cinema ticket-booking & management system</strong> built with <strong>Java Swing + JDBC + MySQL</strong>.
 </p>
 
 <p align="center">
