@@ -22,7 +22,8 @@
   <a href="#screenshots">Screenshots</a> ·
   <a href="#database">Database</a> ·
   <a href="#default-accounts">Default Accounts</a> ·
-  <a href="#notes">Notes</a>
+  <a href="#notes">Notes</a> ·
+  <a href="#License">License</a>
 </p>
 
 <p align="center">
