@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-8+-f89820?labelColor=555555&style=flat-square&logo=openjdk&logoColor=white" alt="Java 8+">
-  <img src="https://img.shields.io/badge/MySQL-8.0+-blue?logo=mysql" alt="MySQL 8.0+"/>
+  <img src="https://img.shields.io/badge/MySQL-8.0+-00758f?labelColor=555555&style=flat-square&logo=mysql&logoColor=white" alt="MySQL 8.0+">
   <img src="https://img.shields.io/badge/UI-Swing-4B8BF4" alt="Swing"/>
   <img src="https://img.shields.io/badge/Data-JDBC-brightgreen" alt="JDBC"/>
   <img src="https://img.shields.io/badge/License-MIT-lightgrey" alt="License MIT"/>
